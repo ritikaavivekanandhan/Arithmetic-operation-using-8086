@@ -60,7 +60,7 @@ END
 |  1200h                  |   1204h                  |
 |  1201h                  |   1205h                  |
 |  1202h                  |   1206h                  |
-|  1203h                  |   1207h                  |
+|  1203h                  |   -                      |
 
 #### Manual Calculations
 
@@ -96,7 +96,7 @@ https://d.docs.live.net/517F985DCD4D89A2/Documents/add%20mpmc.docx
 | 1200h                   | 1204h                    |
 | 1201h                   | 1205h                    |
 | 1202h                   | 1206h                    |
-| 1203h                   | 1207h                    |
+| 1203h                   | -                        |
 
 #### Manual Calculations
 
