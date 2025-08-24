@@ -57,10 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|  1200                   |   1204                   |
-|  1201                   |   1205                   |
-|  1202                   |   1206                   |
-|  1203                   |   1207                   |
+|  1200h                  |   1204h                  |
+|  1201h                  |   1205h                  |
+|  1202h                  |   1206h                  |
+|  1203h                  |   1207h                  |
 
 #### Manual Calculations
 
@@ -93,10 +93,10 @@ https://d.docs.live.net/517F985DCD4D89A2/Documents/add%20mpmc.docx
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-| 1200                    | 1204                     |
-| 1201                    | 1205                     |
-| 1202                    | 1206                     |
-| 1203                    | 1207                     |
+| 1200h                   | 1204h                    |
+| 1201h                   | 1205h                    |
+| 1202h                   | 1206h                    |
+| 1203h                   | 1207h                    |
 
 #### Manual Calculations
 
@@ -145,10 +145,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|   1200                  |   1204                   |
-|   1201                  |   1205                   |    |
-|   1202                  |   1206                   |
-|   1203                  |   1207                   |
+|   1200h                  |   1204h                 |
+|   1201h                  |   1205h                 |    |
+|   1202h                  |   1206h                 |
+|   1203h                  |   1207h                 |
 #### Manual Calculations
 
 
@@ -194,10 +194,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|  1200                   |   1204                   |
-|  1201                   |   1205                   |
-|  1202                   |   1206                   |
-|  1203                   |   1207                   |
+|  1200h                  |   1204h                 |
+|  1201h                  |   1205h                 |
+|  1202h                  |   1206h                 |
+|  1203h                  |   1207h                 |
 #### Manual Calculations
 
 ![WhatsApp Image 2025-08-24 at 23 44 43_13224b42](https://github.com/user-attachments/assets/c1a72e79-993e-46b5-bd46-2025fd1a482e)
