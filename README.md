@@ -57,15 +57,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200                   |   1204                   |
+|  1201                   |   1205                   |
+|  1202                   |   1206                   |
+|  1203                   |   1207                   |
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+-![WhatsApp Image 2025-08-24 at 19 35 59_62582549](https://github.com/user-attachments/assets/68fd6627-76c7-48e1-b1ff-adad70e59a3a)
+--
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+https://d.docs.live.net/517F985DCD4D89A2/Documents/add%20mpmc.docx
 
 ## 2. SUBTRACTION
 
@@ -90,16 +93,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 1200                    | 1204                     |
+| 1201                    | 1205                     |
+| 1202                    | 1206                     |
+| 1203                    | 1207                     |
 
 #### Manual Calculations
 
-(Add your calculation here)
-
+![WhatsApp Image 2025-08-24 at 22 24 32_53a08d4c](https://github.com/user-attachments/assets/3b3ad349-b542-4ec6-b272-acced53d4c1c)
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+https://d.docs.live.net/517F985DCD4D89A2/Documents/ritikaasub%20mpmc.docx
 
 ## 3. MULTIPLICATION
 
@@ -139,15 +145,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|   1200                  |   1204                   |
+|   1201                  |   1205                   |    |
+|   1202                  |   1206                   |
+|   1203                  |   1207                   |
 #### Manual Calculations
 
-(Add your calculation here)
+
+![WhatsApp Image 2025-08-24 at 23 05 26_80511084](https://github.com/user-attachments/assets/642c537f-f5fd-4960-849d-fc030333ac4f)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+https://d.docs.live.net/517F985DCD4D89A2/Documents/mulritikaa%20mpmc.docx
 
 ## 4. DIVISION
 
@@ -184,16 +194,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|  1200                   |   1204                   |
+|  1201                   |   1205                   |
+|  1202                   |   1206                   |
+|  1203                   |   1207                   |
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-08-24 at 23 44 43_13224b42](https://github.com/user-attachments/assets/c1a72e79-993e-46b5-bd46-2025fd1a482e)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-
+https://d.docs.live.net/517F985DCD4D89A2/Documents/divritikaa.mpmc.docx
 
 ## RESULT
 
