@@ -50,7 +50,10 @@ c
 --
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-https://d.docs.live.net/517F985DCD4D89A2/Documents/add%20mpmc.docx
+![WhatsApp Image 2025-08-24 at 22 03 22_1eb5cea3](https://github.com/user-attachments/assets/fedd32fd-7c10-4c21-bc27-1e750efa2d74)
+![WhatsApp Image 2025-08-24 at 22 03 16_b25a7881](https://github.com/user-attachments/assets/71cdef92-8ef4-4ef6-b723-1cbb6a2ceeb4)
+
+
 
 ## 2. SUBTRACTION
 
@@ -105,7 +108,9 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-https://d.docs.live.net/517F985DCD4D89A2/Documents/ritikaasub%20mpmc.docx
+<img width="640" height="480" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/f8ca23cd-0dca-44f5-8266-610aa9dcac9b" />
+<img width="640" height="480" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/05c5be7d-0572-4137-bbaa-b394e4967ff7" />
+
 
 ## 3. MULTIPLICATION
 
@@ -157,7 +162,9 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-https://d.docs.live.net/517F985DCD4D89A2/Documents/mulritikaa%20mpmc.docx
+<img width="640" height="480" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/7fc3acc2-fd95-4d5c-acf6-381fe7e3f406" />
+
+<img width="640" height="480" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/08c547c2-3ac3-45e1-b3d1-be41629cf92f" />
 
 ## 4. DIVISION
 
@@ -205,8 +212,9 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="640" height="480" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/39196e16-074e-45c5-b8ee-9618e8705e2e" />
 
-https://d.docs.live.net/517F985DCD4D89A2/Documents/divritikaa.mpmc.docx
+<img width="640" height="480" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/363a173c-b462-48cb-9616-f70e8bd1f911" />
 
 ## RESULT
 
